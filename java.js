@@ -1,0 +1,3 @@
+$('.burger').click(() => {
+    $('.pop').fadeToggle();
+});
