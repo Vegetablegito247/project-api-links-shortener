@@ -414,6 +414,7 @@ main {
 
     .text p {
         margin: .6rem auto;
+        width: 100%;
     }
 
     .text button {
