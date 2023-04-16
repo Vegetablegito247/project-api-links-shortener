@@ -438,7 +438,7 @@ main {
 
     .linksContainer {
         padding: 0 2rem;
-        top: 235%;
+        top: 1100px;
         left: 0;
     }
 
@@ -533,7 +533,7 @@ main {
     .details {
         display: block;
         padding: 2rem;
-        top: 390%;
+        top: 1820px;
         left: 0;
     }
 
